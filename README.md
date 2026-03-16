@@ -1,12 +1,12 @@
 #
 
-Roblox asset reuploader using a [roblox plugin](https://create.roblox.com/store/asset/139594198035376/SkyReuploader) and go.
+Roblox asset reuploader using a [roblox plugin](https://create.roblox.com/store/asset/101704696195685/AssetReuploader) and go.
 
 Intended to reupload assets since you are unable to use assets if another account owns them.
 
 ### Community
 
-Join the [discord](https://discord.gg/QQ5jPZcT5N) and interact with the community. We have:
+Join the [discord](https://discord.gg/pE3R8Q5gDd) and interact with the community. We have:
 
 - Reuploader themes
 - Reuploader support
@@ -23,10 +23,10 @@ Join the [discord](https://discord.gg/QQ5jPZcT5N) and interact with the communit
 ## Contributing
 
 ALL contributions are welcome.
-The [discord](https://discord.gg/QQ5jPZcT5N) does have a dedicated suggestions channel. If you do have a feature request please do put it in there. But, you do have free will, so choose whichever.
+The [discord](https://discord.gg/pE3R8Q5gDd) does have a dedicated suggestions channel. If you do have a feature request please do put it in there. But, you do have free will, so choose whichever.
 
 ## License
 
-Copyright (c) 2024, Skv Rackz
+Copyright (c) 2024, Monsy Public Enemy
 
-Licensed under the [GPL-3.0]https://github.com/SkvRackz/SkyReuploader/blob/main/LICENSE) license.
+Licensed under the [GPL-3.0]https://github.com/MonsyWestside/MonsyReuploader/blob/main/LICENSE) license.
